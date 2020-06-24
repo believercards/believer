@@ -1,2 +1,2 @@
-# believerhedge
+# believer
 Believer Token Source Code
